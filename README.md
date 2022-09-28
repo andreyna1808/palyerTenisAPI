@@ -22,7 +22,7 @@ Os jogadores fazem parte de um ranking que é atualizado conforme a realização
 - Dentro deste repositório [https://github.com/andreyna1808/playerTenisAPI](https://github.com/andreyna1808/playerTenisAPI), o botão de Fork fica no canto superior direito da tela, aproveita para dar uma estrelinha. 🙈
 - Agora, abra o terminal e rode os comandos abaixo.
 
-### 3.3 - Faça o clone do repositórioa via HTTPS ou SSH
+### 3.3 - Faça o clone do repositório via HTTPS ou SSH
 
 HTTPS:
 
