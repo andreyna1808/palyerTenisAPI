@@ -77,7 +77,7 @@ npm run start:dev
 
 [![Habilidades front-end](https://skillicons.dev/icons?i=javascript,typescript,nodejs,nest,mongodb,git,linux,vscode)](https://skillicons.dev)
 
-👉 Para todos verem
+Para todos verem
 
 - Na imagem acima estão os ícones das tecnologias utilizadas sendo: javascript, typescript, nodejs, nest, mongodb, git, linux e vscode.
 
@@ -93,6 +93,6 @@ npm run start:dev
 
 ----
 
-## 👉 made with
+## 👉 Desenvolvido por
 
 [<img src="https://avatars.githubusercontent.com/u/87716793?v=4" width=115><br><sub>Andreyna Carvalho</sub>](https://github.com/andreyna1808)
