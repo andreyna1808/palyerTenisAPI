@@ -17,7 +17,7 @@ Os jogadores fazem parte de um ranking que é atualizado conforme a realização
 
 ### 3.1 - Instalações necessárias [Node.js](https://nodejs.org/en/download/) && [NPM](https://docs.npmjs.com/cli/v8/commands/npm) && [CLI Nest.js](https://docs.nestjs.com/)
 
-### 3.2 - faça o fork deste repositório em sua conta do github <br />
+### 3.2 - faça o fork deste repositório em sua conta do github
 
 - Dentro deste repositório [https://github.com/andreyna1808/playerTenisAPI](https://github.com/andreyna1808/playerTenisAPI), o botão de Fork fica no canto superior direito da tela, aproveita para dar uma estrelinha. 🙈
 - Agora, abra o terminal e rode os comandos abaixo.
@@ -38,10 +38,10 @@ git clone git@github.com:andreyna1808/playerTenisAPI.git
 
 > OBS: Ao fazer o Fork você tem a opção de alterar o nome do repositório, substitua pelo nome escolhido na hora do Fork.
 
-### 3.4 - Entre no terminal para acessar o diretório
+### 3.4 - Depois de clonado acesse o repositório
 
 ```bash
-cd playerTenisAPI && cd player-tenis-api
+cd playerTenisAPI
 ```
 
 ### 3.5 - Instale as dependências
